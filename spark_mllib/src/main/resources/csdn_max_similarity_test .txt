@@ -1,0 +1,9 @@
+Number of recordswhich similarity is larger than 0.7 is 4561, with the percentage of 87.846687211094.
+Number of recordswhich similarity is larger than 0.4 is 5128, with the percentage of 98.7673343605547.
+Number of recordswhich similarity is larger than 0.8 is 4274, with the percentage of 82.31895223420648.
+Number of recordswhich similarity is larger than 0.6 is 4838, with the percentage of 93.18181818181819.
+Number of recordswhich similarity is larger than 0.1 is 5162, with the percentage of 99.42218798151002.
+Number of recordswhich similarity is larger than 0.2 is 5162, with the percentage of 99.42218798151002.
+Number of recordswhich similarity is larger than 0.5 is 5025, with the percentage of 96.78351309707242.
+Number of recordswhich similarity is larger than 0.9 is 3916, with the percentage of 75.42372881355932.
+Number of recordswhich similarity is larger than 0.3 is 5160, with the percentage of 99.38366718027736.

@@ -1,0 +1,150 @@
+K is: 1
+Within Set Sum of Squared Errors = 8.898624122009789E9
+
+K is: 101
+Within Set Sum of Squared Errors = 5.1622993202466965E8
+
+K is: 201
+Within Set Sum of Squared Errors = 3.5742537652499014E8
+
+K is: 301
+Within Set Sum of Squared Errors = 2.7714697714863396E8
+
+K is: 401
+Within Set Sum of Squared Errors = 2.3440767742430043E8
+
+K is: 501
+Within Set Sum of Squared Errors = 1.8799740747059155E8
+
+K is: 601
+Within Set Sum of Squared Errors = 1.6412025133398122E8
+
+K is: 701
+Within Set Sum of Squared Errors = 1.3912046123916626E8
+
+K is: 801
+Within Set Sum of Squared Errors = 1.2157755975970364E8
+
+K is: 901
+Within Set Sum of Squared Errors = 1.0381271363936198E8
+
+K is: 1001
+Within Set Sum of Squared Errors = 9.198516688000458E7
+
+K is: 1101
+Within Set Sum of Squared Errors = 8.078366632938722E7
+
+K is: 1201
+Within Set Sum of Squared Errors = 7.250072656748277E7
+
+K is: 1301
+Within Set Sum of Squared Errors = 6.390449804254039E7
+
+K is: 1401
+Within Set Sum of Squared Errors = 5.608311520005408E7
+
+K is: 1501
+Within Set Sum of Squared Errors = 4.906575368744861E7
+
+K is: 1601
+Within Set Sum of Squared Errors = 4.556645095058924E7
+
+K is: 1701
+Within Set Sum of Squared Errors = 3.930587277080958E7
+
+K is: 1801
+Within Set Sum of Squared Errors = 3.566849332428995E7
+
+K is: 1901
+Within Set Sum of Squared Errors = 3.1034802915988117E7
+
+K is: 2001
+Within Set Sum of Squared Errors = 2.692004570283679E7
+
+K is: 2101
+Within Set Sum of Squared Errors = 2.435746220850169E7
+
+K is: 2201
+Within Set Sum of Squared Errors = 2.101089327746115E7
+
+K is: 2301
+Within Set Sum of Squared Errors = 1.843935107050637E7
+
+K is: 2401
+Within Set Sum of Squared Errors = 1.7904806205670893E7
+
+K is: 2501
+Within Set Sum of Squared Errors = 1.5619985827853512E7
+
+K is: 2601
+Within Set Sum of Squared Errors = 1.3137094675095512E7
+
+K is: 2701
+Within Set Sum of Squared Errors = 1.0678325547791284E7
+
+K is: 2801
+Within Set Sum of Squared Errors = 1.0366228864800517E7
+
+K is: 2901
+Within Set Sum of Squared Errors = 8412199.042783812
+
+K is: 3001
+Within Set Sum of Squared Errors = 7356922.772914179
+
+K is: 3101
+Within Set Sum of Squared Errors = 6621725.411095321
+
+K is: 3201
+Within Set Sum of Squared Errors = 7035448.561916549
+
+K is: 3301
+Within Set Sum of Squared Errors = 4747449.248141352
+
+K is: 3401
+Within Set Sum of Squared Errors = 5315878.998181459
+
+K is: 3501
+Within Set Sum of Squared Errors = 4911858.699331123
+
+K is: 3601
+Within Set Sum of Squared Errors = 4297985.968156042
+
+K is: 3701
+Within Set Sum of Squared Errors = 5302745.462366456
+
+K is: 3801
+Within Set Sum of Squared Errors = 5450465.679566583
+
+K is: 3901
+Within Set Sum of Squared Errors = 4207506.021469026
+
+K is: 4001
+Within Set Sum of Squared Errors = 5157701.410764569
+
+K is: 4101
+Within Set Sum of Squared Errors = 2844471.848243102
+
+K is: 4201
+Within Set Sum of Squared Errors = 4611449.554351272
+
+K is: 4301
+Within Set Sum of Squared Errors = 2966582.0608961806
+
+K is: 4401
+Within Set Sum of Squared Errors = 3468844.495144476
+
+K is: 4501
+Within Set Sum of Squared Errors = 3070854.909375672
+
+K is: 4601
+Within Set Sum of Squared Errors = 3318580.2164995624
+
+K is: 4701
+Within Set Sum of Squared Errors = 2806464.3721963596
+
+K is: 4801
+Within Set Sum of Squared Errors = 377756.92062659987
+
+K is: 4901
+Within Set Sum of Squared Errors = 2441347.5365909217
+
